@@ -1,2 +1,3 @@
 # JDJDVM
-Repositorio creado por Jonatan Domínguez y VM
+Este repositorio está creado por Jonatan Domínguez y VM.
+
